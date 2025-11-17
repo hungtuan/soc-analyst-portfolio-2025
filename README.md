@@ -1,6 +1,6 @@
-# 🛡️ SOC Analyst Portfolio – 2025
+# 🛡️ SOC Analyst Portfolio
 
-**Author:** Hung Tuan  
+**Author:** Nguyen Hung Tuan  
 **Role Target:** SOC Analyst Intern / Blue Team / Security Analyst Tier 1  
 **Tools:** Splunk, ELK Stack, Microsoft Sentinel, Wireshark
 
@@ -16,8 +16,6 @@ Mục tiêu của portfolio này là chứng minh khả năng:
 - Viết detection rules (SPL, KQL, Elastic DSL)
 - Thực hiện điều tra SOC Tier 1
 - Xây dựng playbook xử lý sự cố theo chuẩn NIST
-
-Portfolio được cập nhật liên tục trong năm 2025.
 
 ---
 
@@ -85,7 +83,7 @@ Portfolio được cập nhật liên tục trong năm 2025.
 
 # 🎯 Mục tiêu nghề nghiệp
 
-Tìm kiếm cơ hội **Thực tập SOC Analyst / Blue Team** để áp dụng các kỹ năng:
+Tìm kiếm cơ hội **SOC Analyst / Blue Team** để áp dụng các kỹ năng:
 
 - Log analysis
 - Alert triage
