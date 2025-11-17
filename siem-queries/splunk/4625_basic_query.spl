@@ -1,0 +1,2 @@
+index=* sourcetype="windows_security_log" EventID=4625
+| table _time AccountName Workstation LogonType
